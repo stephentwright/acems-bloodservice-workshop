@@ -31,7 +31,7 @@ navbar-links:
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/blood-service.png"
+avatar: "/img/logo-web.png"
 
 # --- Footer options --- #
 
@@ -63,7 +63,7 @@ url-pretty: "Workshop Home"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "stephentwright"
+disqus: "acems-bloodservice-workshop"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
