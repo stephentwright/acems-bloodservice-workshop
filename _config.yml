@@ -24,8 +24,8 @@ description: A pre-workshop website. Introduce yourself and ask a question or tw
 # List of links in the navigation bar
 navbar-links:
   Info: 
-  	- Event Information: "event-info"
-  	- Participating Organisations: "event-orgs"
+    - Event Information: "event-info"
+    - Participating Organisations: "event-orgs"
   Websites:
     - ACEMS: "http://acems.org.au/"
     - Blood Service: "http://www.donateblood.com.au/research"
