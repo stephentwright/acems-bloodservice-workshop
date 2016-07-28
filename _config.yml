@@ -14,7 +14,7 @@ baseurl: "/acems-bloodservice-workshop"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: WORKSHOP
+title: WORKSHOP-WEBSITE
 
 # Short description of your site
 description: A pre-workshop website. Introduce yourself and ask a question or two!
@@ -23,8 +23,8 @@ description: A pre-workshop website. Introduce yourself and ask a question or tw
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
-  Resources:
+  About: "INFO"
+  Websites:
     - ACEMS: "http://acems.org.au/"
     - Blood Service: "http://www.donateblood.com.au/research"
     - Transfusion Education: "http://www.transfusion.com.au/"
@@ -38,21 +38,21 @@ avatar: "/img/logo-web.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Stephen Wright
+  name: ACEMS Events
   email: "swright@redcrossblood.org.au"
-  facebook: yourname  # eg. daattali
+  facebook: ARC-Centre-of-Excellence-for-Mathematical-Statistical-Frontiers-552204121568834  # eg. daattali
   github: stephentwright    # eg. daattali
-  twitter: stephencanbe   # eg. daattali
+  twitter: ACEMathStats   # eg. daattali
   linkedin: yourname  # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
   rss: true
-  facebook: false
+  facebook: true
   email: true
   twitter: true
-  github: true
+  github: false
   linkedin: false
   stackoverflow: false
 
@@ -75,7 +75,7 @@ timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
