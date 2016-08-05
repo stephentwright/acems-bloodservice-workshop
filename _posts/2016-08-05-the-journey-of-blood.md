@@ -6,7 +6,7 @@ subtitle: a glimpse of the wonderful adventure!
 
 To showcase the many exciting opportunties for research at the Blood Service, consider the following picture - **The Journey of Blood**.
 
-![journey](https://github.com/stephentwright/acems-bloodservice-workshop/blob/gh-pages/img/journey-of-blood.png)
+![journey]({{ site.url }}/img/journey-of-blood.png)
 
 
 **Here is some bold text**
