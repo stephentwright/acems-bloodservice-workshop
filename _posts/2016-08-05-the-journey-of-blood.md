@@ -6,6 +6,8 @@ subtitle: a glimpse of the wonderful adventure!
 
 To showcase the many exciting opportunties for research at the Blood Service, consider the following picture - **The Journey of Blood**.
 
+![journey](img/journey-of-blood.png)
+
 
 **Here is some bold text**
 
