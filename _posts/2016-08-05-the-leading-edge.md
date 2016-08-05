@@ -50,7 +50,7 @@ _People and Culture_
 + Business outcomes through research
 + Attraction and retention of the best staff
 
-**NATIONAL NETWORKS*
+**NATIONAL NETWORKS**
 
 _Partnerships_
 
@@ -64,5 +64,5 @@ _People and Culture_
 + Less complex but more reliable IT and data network
 + Highly competitive and growing external services
 
-If you're wondering how these objectives will be benchmarked or measured, then be sure to read the document. The challenge has be set, it's game time!
+If you're wondering how these objectives will been benchmarked or measured, then be sure to read the document. The challenge has be set, it's game time!
  
