@@ -4,41 +4,8 @@ title: The Journey of Blood
 subtitle: a glimpse of the wonderful adventure!
 ---
 
-To showcase the many exciting opportunties for research at the Blood Service, consider the following picture - **The Journey of Blood**.
+To showcase the many exciting opportunties for research at the Blood Service, consider the following picture - **The Journey of Blood**. From the point of donor first contact (National Contact Centre), to a patient receiving a blood product (Transfusion), the journey is long and varied. Each step through the process presents exciting new  opportunities for research to help refine the journey.   
 
 ![journey]({{ site.url }}/img/journey-of-blood.png)
 
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
- 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
- 
-
-How about a yummy crepe?
-
-![Crepe](http://lafenicegelato.com/wp-content/uploads/2014/09/crepes-with-chocolate.jpg)
-
-Here's a code chunk:
-
-~~~
-x <- 5 + 10
-print(x)
-~~~
-
-And here is some code with syntax highlighting
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+The above image can be found in the 2014-2015 Annual Report. The document can be found online [here]({{site.url}}/uploads/Annual-Report-2015.pdf), or directly from the Australian Red Cross Blood Service website [http://www.donateblood.com.au/about].
