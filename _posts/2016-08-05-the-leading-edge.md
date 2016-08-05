@@ -20,18 +20,23 @@ _At the leading edge_ clearly articulates the way the Blood Service will need to
 
 ## Organisation Objectives 
 **PERFORMANCE**
+
 _Partnerships_
+
 1\. Better matching of supply to demand
 2\. Reduction in waste and duplication
 3\. Increased savings and performance through procurement
 
 _People and Culture_
+
 4\. Leaner production
 5\. Risk and cost reduction through technology
 6\. Better corporate decision making
 
 **Outcomes**
+
 _Partnerships_
+
 7\. Valued, happy and health donors
 8\. Better patient outcomes through improved clinical practice
 9\. Improved risk-based decision making
