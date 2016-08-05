@@ -16,7 +16,9 @@ _At the leading edge_ clearly articulates the way the Blood Service will need to
 **What is the Leading Edge?**
 
 >**BENCHMARKING** against the best
+>
 >Driving change through **PARTNERSHIP**
+>
 >Driving performance through our **PEOPLE AND CULTURE**
 
 ## Organisation Objectives 
@@ -48,7 +50,7 @@ _People and Culture_
 + Business outcomes through research
 + Attraction and retention of the best staff
 
-**National Network**
+**NATIONAL NETWORKS*
 
 _Partnerships_
 
@@ -61,3 +63,6 @@ _People and Culture_
 + An ideally distributed collection network
 + Less complex but more reliable IT and data network
 + Highly competitive and growing external services
+
+If you're wondering how these objectives will be benchmarked or measured, then be sure to read the document. The challenge has be set, it's game time!
+ 
