@@ -16,13 +16,12 @@ _At the leading edge_ clearly articulates the way the Blood Service will need to
 **What is the Leading Edge?**
 
 >**BENCHMARKING** against the best
->
 >Driving change through **PARTNERSHIP**
->
 >Driving performance through our **PEOPLE AND CULTURE**
 
 ## Organisation Objectives 
 **PERFORMANCE**
+
 _Partnerships_
 + Better matching of supply to demand
 + Reduction in waste and duplication
