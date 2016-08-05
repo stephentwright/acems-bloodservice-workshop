@@ -14,46 +14,41 @@ _At the leading edge_ outlines the key areas of future focus for the Blood Servi
 _At the leading edge_ clearly articulates the way the Blood Service will need to work in order to achieve these goals – we must develop closer partnerships with our customers and stakeholders in order to perform and deliver shared outcomes. Change will ultimately come through enhancing the way our people work and by providing the right systems to support them. Each area of the plan is backed by rigorous performance measures that have clear aspirational targets that will signal our success. For many of these, we have set targets that will position us among the best blood services in the world.
 
 **What is the Leading Edge?**
->**BENCHMARKING** against the best>
+>**BENCHMARKING** against the best
 >Driving change through **PARTNERSHIP**
 >Driving performance through our **PEOPLE AND CULTURE**
 
 ## Organisation Objectives 
 **PERFORMANCE**
-
 _Partnerships_
-
-1\. Better matching of supply to demand
-2\. Reduction in waste and duplication
-3\. Increased savings and performance through procurement
+* Better matching of supply to demand
+* Reduction in waste and duplication
+* Increased savings and performance through procurement
 
 _People and Culture_
-
-4\. Leaner production
-5\. Risk and cost reduction through technology
-6\. Better corporate decision making
+* Leaner production
+* Risk and cost reduction through technology
+* Better corporate decision making
 
 **Outcomes**
-
 _Partnerships_
-
-7\. Valued, happy and health donors
-8\. Better patient outcomes through improved clinical practice
-9\. Improved risk-based decision making
+* Valued, happy and health donors
+* Better patient outcomes through improved clinical practice
+* Improved risk-based decision making
 
 _People and Culture_
-10\. Nationally constant and reliable product and service offerings
-11\. Business outcomes through research
-12\. Attraction and retention of the best staff
+* Nationally constant and reliable product and service offerings
+* Business outcomes through research
+* Attraction and retention of the best staff
 
 **National Network**
 _Partnerships_
-13\. Greater contribution outside blood
-14\. More collaborative research output
-15\. Assistance to developing countries
+* Greater contribution outside blood
+* More collaborative research output
+* Assistance to developing countries
 
 _People and Culture_ 
-16\. An ideally distributed collection network
-17\. Less complex but more reliable IT and data network
-18\. Highly competitive and growing external services
+* An ideally distributed collection network
+* Less complex but more reliable IT and data network
+* Highly competitive and growing external services
 
