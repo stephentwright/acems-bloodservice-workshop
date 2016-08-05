@@ -8,4 +8,4 @@ To showcase the many exciting opportunties for research at the Blood Service, co
 
 ![journey]({{ site.url }}/img/journey-of-blood.png)
 
-The above image can be found in the 2014-2015 Annual Report. The document can be found online [here]({{site.url}}/uploads/Annual-Report-2015.pdf), or directly from the Australian Red Cross Blood Service website [http://www.donateblood.com.au/about].
+The above image can be found in the 2014-2015 Annual Report. The document can be found online [here]({{site.url}}/uploads/Annual-Report-2015.pdf)(**warning: 13MB**), or directly on the Australian Red Cross Blood Service website- http://www.donateblood.com.au/about.
