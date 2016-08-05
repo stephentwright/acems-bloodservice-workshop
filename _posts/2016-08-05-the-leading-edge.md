@@ -23,34 +23,41 @@ _At the leading edge_ clearly articulates the way the Blood Service will need to
 **PERFORMANCE**
 
 _Partnerships_
+
 + Better matching of supply to demand
 + Reduction in waste and duplication
 + Increased savings and performance through procurement
 
 _People and Culture_
+
 + Leaner production
 + Risk and cost reduction through technology
 + Better corporate decision making
 
-**Outcomes**
+**OUTCOMES**
+
 _Partnerships_
+
 + Valued, happy and health donors
 + Better patient outcomes through improved clinical practice
 + Improved risk-based decision making
 
 _People and Culture_
+
 + Nationally constant and reliable product and service offerings
 + Business outcomes through research
 + Attraction and retention of the best staff
 
 **National Network**
+
 _Partnerships_
+
 + Greater contribution outside blood
 + More collaborative research output
 + Assistance to developing countries
 
 _People and Culture_ 
+
 + An ideally distributed collection network
 + Less complex but more reliable IT and data network
 + Highly competitive and growing external services
-
