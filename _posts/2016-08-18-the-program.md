@@ -32,7 +32,7 @@ ACEMS Projects and Case-Studies
 + Recommendation Engines / Analytics (_**Amy Cook**_)
 + Mathematical Modelling (TBC)
 
-## Lunch
+## <CENTER> Lunch </CENTER>
 
 ## 1:00 pm – 1:30 pm	
 _Invited Talk_: Blood forecasting: determining supply and demand for the Australian Red Cross Blood Service (_**Mark Lake**_) 
@@ -43,13 +43,13 @@ _Invited Talk_: Insights from analysis of networked data (_**Matthew Roughan - T
 ## 2:00 pm – 2:30 pm
 _Invited Talk_: Monitoring emerging diseases: hepatitis E, babesia, and q-fever (_**Helen Faddy**_)
 
-## Afternoon tea
+## <CENTER> Afternoon tea </CENTER>
 
 ## 2:45 pm – 3:00 pm
 The Pitch: 2 minute elevator pitches pre-prepared or developed on the day
 
 ## 3:00 pm – 4:00 pm
-General discussion with a view to defining new and advancing ongoing collaborations (Facilitator: Louise Ryan)
+General discussion with a view to defining new and advancing ongoing collaborations (Facilitator: _**Louise Ryan**_)
 
 ## 4:00 pm	
 Close
