@@ -9,29 +9,32 @@ Registration and pre-workship refreshments (Coffee and Tea)
 
 ## 9:00 am – 9:30 am
 Welcome and workshop overview (_**Louise Ryan**_ and _**David Irving**_)
+
 Introductions and Icebreakers (_**Stephen Wright**_ and _**Jessie Roberts**_)
 
 ## 9:30 am – 10:30 am	
 An overview of the Research Program at the Blood Service (_**David Irving**_)
+
 + Donor Research 
 + Product Development and Storage 
 + Product Safety 
 + Product Usage  
 
-## Morning Tea
+## <CENTER> Morning Tea </CENTER>
 
 ## 10:45 am – 11:00 am	
 The Blood Services Research and Development planning cycle and Communication unit (_**Alison Gould**_)
 
 ## 11:00 am – 12:20 pm
 ACEMS Projects and Case-Studies 
+
 + Operations Research (TBC)
 + Recommendation Engines / Analytics (_**Amy Cook**_)
 + Mathematical Modelling (TBC)
 
 ## Lunch
 
-##1:00 pm – 1:30 pm	
+## 1:00 pm – 1:30 pm	
 _Invited Talk_: Blood forecasting: determining supply and demand for the Australian Red Cross Blood Service (_**Mark Lake**_) 
 
 ## 1:30 pm – 2:00 pm
