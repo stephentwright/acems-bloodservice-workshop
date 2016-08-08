@@ -41,7 +41,7 @@ _Invited Talk_: Blood forecasting: determining supply and demand for the Austral
 _Invited Talk_: Insights from analysis of networked data (_**Matthew Roughan - TBC**_)
 
 ## 2:00 pm – 2:30 pm
-_Invited Talk_: Monitoring emerging diseases: hepatitis E, babesia, and q-fever (_**Helen Faddy**_)
+_Invited Talk_: Emerging transfusion-transmitted infections: looking for a needle in a haystack? (_**Helen Faddy**_)
 
 ## <CENTER> Afternoon tea </CENTER>
 
