@@ -27,7 +27,7 @@ navbar-links:
     - Event Information: "event-info"
     - Participating Organisations: "event-orgs"
     - Research Themes & Discussion: "event-discuss-themes"
-    - Participants Introductions: "event-introductions"
+    - Participants Introductions: "https://stephentwright.github.io/acems-bloodservice-workshop/2016-08-09-welcome/"
   Websites:
     - ACEMS: "http://acems.org.au/"
     - Blood Service: "http://www.donateblood.com.au/research"
