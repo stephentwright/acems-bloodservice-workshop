@@ -1,0 +1,14 @@
+---
+layout: post
+title: Introduce Yourself
+subtitle: 
+---
+
+Bringing together people from different geographies and research areas in a one day workshop can sometimes be a challenge. Getting to know each other and understanding each participants interests and skills takes time, often cutting into time that could be spent discussing potential projects.   
+   
+With the aim of getting the most out of this workshop, we've set up this webpage. We hope the comments sections and support material on the website will facilitate a more productive workshop. Please be patient, this is an  experiment!   
+   
+Please introduce yourself, and your research interests, in the comments section at the bottom of the page. We encourage you to reply to existing introductions if you have similar interests or questions.  
+   
+   
+After introducing yourself, please go to the [Research Themes](https://stephentwright.github.io/acems-bloodservice-workshop/event-discuss-themes/) page to add details about the research themes you are interested in. 
