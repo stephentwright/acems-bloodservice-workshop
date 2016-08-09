@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshop Information
-subtitle: Beginning the discussions
+title: Beginning the Discussions
+subtitle: Research Themes
 ---
 
 To get the most out of the workshop we would like to foster pre-workshop discussions and introductions.  Please introduce yourself and your research area on the [introductions]() page, and add comments to the bottom of this page to indicate which of the research themes you are interested in or have questions about.
