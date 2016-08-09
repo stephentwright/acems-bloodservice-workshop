@@ -26,7 +26,7 @@ navbar-links:
   Info: 
     - Event Information: "event-info"
     - Participating Organisations: "event-orgs"
-    - Research Themes & Discussion: "themes-discussion"
+    - Research Themes & Discussion: "event-discuss-themes"
   Websites:
     - ACEMS: "http://acems.org.au/"
     - Blood Service: "http://www.donateblood.com.au/research"
