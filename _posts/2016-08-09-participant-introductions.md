@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Introduce Yourself
-subtitle: 
+title: Welcome!
+subtitle: Please introduce yourself below
 ---
 
 Bringing together people from different geographies and research areas in a one day workshop can sometimes be a challenge. Getting to know each other and understanding each participants interests and skills takes time, often cutting into time that could be spent discussing potential projects.   
