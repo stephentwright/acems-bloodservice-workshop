@@ -4,7 +4,7 @@ title: Beginning the Discussions
 subtitle: Research Themes
 ---
 
-To get the most out of the workshop we would like to foster pre-workshop discussions and introductions.  Please introduce yourself and your research area on the [introductions]() page, and add comments to the bottom of this page to indicate which of the research themes you are interested in or have questions about.
+To get the most out of the workshop we would like to foster pre-workshop discussions and introductions.  Please introduce yourself and your research area on the [introductions](https://stephentwright.github.io/acems-bloodservice-workshop/2016-08-09-welcome/) page, and add comments to the bottom of this page to indicate which of the research themes you are interested in or have questions about.
 
    
 The themes are meant as a focus and general guide for the workshop, but comments ideas and suggestions outside of these main themes are encouraged. 
