@@ -28,9 +28,9 @@ The Blood Services Research and Development planning cycle and Communication uni
 ## 11:00 am – 12:20 pm
 ACEMS Projects and Case-Studies 
 
-+ Operations Research (***Joyce Zhang and Mark Frackrell**)
-+ Recommendation Engines / Analytics (_**Amy Cook**_)
-+ Mathematical Modelling (TBC)
++ Operations Research (_**Joyce Zhang & Mark Frackrell**_, UoM)
++ Recommendation Engines / Analytics (_**Amy Cook**_, QUT)
++ Process control:  Dispatchability of intermittent renewable energy (_**Silvio Tarca**_, UoA)
 
 ## <CENTER> Lunch </CENTER>
 
