@@ -38,7 +38,7 @@ ACEMS Projects and Case-Studies
 _Invited Talk_: Blood forecasting: determining supply and demand for the Australian Red Cross Blood Service (_**Mark Lake**_) 
 
 ## 1:30 pm – 2:00 pm
-_Invited Talk_: Insights from analysis of networked data (_**Matthew Roughan - TBC**_)
+_Invited Talk_: Longitudinal modelling of child growth (_**Craig Anderson**_)
 
 ## 2:00 pm – 2:30 pm
 _Invited Talk_: Emerging transfusion-transmitted infections: looking for a needle in a haystack? (_**Helen Faddy**_)
