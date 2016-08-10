@@ -8,9 +8,9 @@ subtitle: Grid Room, Building 4, Level 5, Room 430, UTS
 Registration and pre-workship refreshments (Coffee and Tea)
 
 ## 9:00 am – 9:30 am
-Welcome and workshop overview (_**Louise Ryan**_ and _**David Irving**_)
+Welcome and workshop overview (_**Louise Ryan**_ & _**David Irving**_)
 
-Introductions and Icebreakers (_**Stephen Wright**_ and _**Jessie Roberts**_)
+Introductions and Icebreakers (_**Stephen Wright**_ & _**Jessie Roberts**_)
 
 ## 9:30 am – 10:30 am	
 An overview of the Research Program at the Blood Service (_**David Irving**_)
@@ -28,7 +28,7 @@ The Blood Services Research and Development planning cycle and Communication uni
 ## 11:00 am – 12:20 pm
 ACEMS Projects and Case-Studies 
 
-+ Operations Research (_**Joyce Zhang & Mark Frackrell**_, UoM)
++ Operations Research (_**Joyce Zhang**_ & _**Mark Frackrell**_, UoM)
 + Recommendation Engines / Analytics (_**Amy Cook**_, QUT)
 + Process control:  Dispatchability of intermittent renewable energy (_**Silvio Tarca**_, UoA)
 
