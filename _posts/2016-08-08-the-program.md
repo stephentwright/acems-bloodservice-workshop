@@ -8,9 +8,9 @@ subtitle: Grid Room, Building 4, Level 5, Room 430, UTS
 Registration and pre-workship refreshments (Coffee and Tea)
 
 ## 9:00 am – 9:30 am
-Welcome and workshop overview (_**Louise Ryan**_ & _**David Irving**_)
+Welcome and workshop overview (_**Louise Ryan** & **David Irving**_)
 
-Introductions and Icebreakers (_**Stephen Wright**_ & _**Jessie Roberts**_)
+Introductions and Icebreakers (_**Stephen Wright** & **Jessie Roberts**_)
 
 ## 9:30 am – 10:30 am	
 An overview of the Research Program at the Blood Service (_**David Irving**_)
