@@ -30,7 +30,8 @@ This collaborative workshop aims to explore future research projects and build c
 + Other ACEMS research applicable to the collection, management & delivery of blood products.
 
 ## WHEN
-Tuesday, August 16, 2016 from 8:45 AM to 5:00 PM (AEST)
+Tuesday, August 16, 2016 from 8:45 AM to 5:00 PM (AEST)   
+[Map](https://drive.google.com/open?id=1NISC875RbbHBQrL_3lm6__9ABys&usp=sharing)
 
 ## WHERE
 Grid Room, Building 4, Level 5, Room no. 430 (CB04.05.430) - University of Technology Sydney 15 Broadway, Ultimo, NSW 2007
